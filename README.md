@@ -1,0 +1,2 @@
+# mana-local
+Local Services
